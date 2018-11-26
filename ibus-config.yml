@@ -1,0 +1,8 @@
+DWXENG:
+  -
+    typeId: ExampleService
+    config:
+      com.cerner.careaware.exampleService.ids:
+        -
+          $TYPE: java.lang.Double
+          $VALUE: 1.0

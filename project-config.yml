@@ -1,0 +1,3 @@
+# Specify which containers start automatically when kamino up is run
+autoStart:
+  - testContainer
